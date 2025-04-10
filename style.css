@@ -2,3 +2,13 @@ p{
     color :brown;
     text-align: center;
 }
+
+.Test{
+    background-color: aqua;
+    text-align: left;
+    color: #d21a1a;
+    
+    border-color: black;
+    border-style: dashed;
+     border-width: 5px 5px 5px 5px;
+}
